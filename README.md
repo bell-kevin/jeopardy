@@ -2,6 +2,12 @@
 
 # 
 
+![p](https://github.com/bell-kevin/jeopardy/blob/main/Screenshots/Screenshot%202025-05-09%20222150.png)
+
+![p](https://github.com/bell-kevin/jeopardy/blob/main/Screenshots/Screenshot%202025-05-09%20222238.png)
+
+![p](https://github.com/bell-kevin/jeopardy/blob/main/Screenshots/Screenshot%202025-05-09%20222314.png)
+
 --------------------------------------------------------------------------------------------------------------------------
 == We're Using GitHub Under Protest ==
 
